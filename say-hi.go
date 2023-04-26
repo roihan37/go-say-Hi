@@ -1,6 +1,6 @@
 package go_say_Hi
 
 func SayHi() string {
-	return "Hello Hi"
+	return "Hello Hi World"
 }
 
